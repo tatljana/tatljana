@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tatljana
-- 👀 I’m interested in fortune-telling and prophesy, but only based on Machine Learning Algorithms :mage:
+- 👀 I’m interested in fortune-telling and prophesy, but only based on AI algorithms :mage:
 - :books: I speak Python, Java, HTML, CSS, JavaScript
 - 🌱 I’m currently learning PHP, R and French, but also building up my knowledge on abovesaid languages (you live and you learn :shrug:)
 
